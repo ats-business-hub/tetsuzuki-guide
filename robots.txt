@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tetsuzuki.agtwn.com/sitemap.xml
